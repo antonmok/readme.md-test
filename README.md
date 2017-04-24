@@ -13,12 +13,12 @@ Build instructions [here](https://github.com/galkahana/PDF-Writer/wiki/Building-
 
 Project directory structure should look like this:
 
-SomeFolder
-	|--pdfParser
-	|
-	|--PDFWriter
-	|
-	|--tclap-1.2.1
+    SomeFolder
+	    |--pdfParser
+	    |
+	    |--PDFWriter
+	    |
+	    |--tclap-1.2.1
 
 4) Go to pdfParser directory and run this commands:
     cmake -G "Unix Makefiles"
