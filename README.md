@@ -29,11 +29,14 @@ pdfParser executable will be generated in 'build' folder.
 ## Usage
 
 To extract all text
+
     ./pdfParser -c extract -p path/to/file.pdf -o out/put/dir
 
 To insert links
+
     ./pdfParser -c insert -p path/to/file.pdf -o out/put/dir
 
 To show detailed info about command line arguments
+
     ./pdfParser --help
 
