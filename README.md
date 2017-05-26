@@ -1,6 +1,6 @@
 # Project Name
 
-pdfParser
+pdfParser project
 
 ## Installation
 
